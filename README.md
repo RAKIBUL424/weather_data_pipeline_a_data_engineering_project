@@ -4,7 +4,7 @@ This project is demonstrate a complete ETL pipeline which is fully automated. Th
 
 ---
 ##Project Architecture:
-[image alt]()
+[image alt](https://github.com/RAKIBUL424/weather_data_pipeline_a_data_engineering_project/blob/1e0ba36f7720fc4a47a1a1507ecc9091ffd8a63e/Weather%20Data.png)
 
 ---
 ## 📖 Project Overview
