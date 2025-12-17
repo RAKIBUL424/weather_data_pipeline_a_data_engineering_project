@@ -3,7 +3,7 @@ Welcome to the **Fully Automated Data Pipeline Project** repository
 This project is demonstrate a complete ETL pipeline which is fully automated. This project is done on Docker images of AirFlow, dbt, PostgresSQL and Apache Superset. This projects is done completly end-to-end data ingestation from realtime API to data visualization and analysis in a automated fashion.
 
 ---
-##Project Architecture:
+## Project Architecture:
 ![image alt](https://github.com/RAKIBUL424/weather_data_pipeline_a_data_engineering_project/blob/1e0ba36f7720fc4a47a1a1507ecc9091ffd8a63e/Weather%20Data.png)
 
 ---
