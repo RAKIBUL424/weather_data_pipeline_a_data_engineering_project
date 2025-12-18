@@ -39,6 +39,6 @@ This project is licensed under the [MIT License](LICENSE). You are free to use, 
 
 ## 🌟 About Me
 
-Hi there! I'm **Abu Hashem Md Rakibul Islam**, a data enthugiest. I have recently graduated from HSTU and practicing data realated things regularly.
+Hi there! I'm **Abu Hashem Md Rakibul Islam**, a data enthusiast. I have recently graduated from HSTU and practicing data realated things regularly.
 
 Let's stay in touch! Feel free to connect with me on (https://www.linkedin.com/in/ahmd-rakibul-islam-116371238/)
